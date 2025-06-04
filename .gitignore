@@ -1,4 +1,6 @@
-
+# Build artifacts
 dist/
-build/
+
+
+# Caching and tooling
 .cache/
